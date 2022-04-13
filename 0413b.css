@@ -1,0 +1,59 @@
+body, p { margin: 0; }
+
+#button {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 120px;
+    left: 120px;
+    /* display 속성 값으로 flex를 사용하면 해당 박스의 내용을 쉽게 가운데 정렬 할 수 있음*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e799ff;
+    border: dashed 2px #000;
+    border-radius: 25px;
+}
+#button a {
+    text-decoration: none;
+    color: #000000;
+}
+#frame {
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    top: 100px;
+    left: 100px;
+}
+
+.mybox {
+    position: relative;
+    width: 400px;
+    margin-top: 24px;
+    margin-left: 40px;
+    padding: 16px;
+    background-color: #e799ff;
+}
+.mybox img {
+    width: 100%;
+}
+#ibox {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-top: 24px;
+    margin-left: 40px; 
+}
+#ibox img {
+    width: 100%;
+}
+#look-at-me {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 2000px;
+    left: 24px;
+}
+#look-at-me img {
+    width: 100%;
+}
