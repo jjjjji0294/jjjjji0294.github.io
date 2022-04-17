@@ -1,6 +1,7 @@
 body,p {margin: 5%}
 
 #box1 {
+    display: block;
     position: relative;
     width: 1200px;
     height: 800px;
@@ -8,6 +9,7 @@ body,p {margin: 5%}
     }
 
     #box1-1 {
+    display: block;
     position: relative;
     width: 50%;
     height: 70%;
@@ -15,6 +17,7 @@ body,p {margin: 5%}
     }
 
     #box1-2 {
+    display: block;
     position: relative;
     width: 50%;
     height: 30%;
@@ -22,6 +25,7 @@ body,p {margin: 5%}
     }
 
  #box2 {
+    display: block;
     position: absolute;
     left: 1300px;
     width: 300px;
