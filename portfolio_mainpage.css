@@ -1,4 +1,4 @@
-body,p {margin: 0%}
+body,p {margin: 10%}
 
 p {
     background-color: #ffff00;
@@ -7,7 +7,7 @@ p {
 
 #box1 {
     position: relative;
-    width: 800px;
+    width: 1200px;
     height: 800px;
     background-color:aqua;
     }
