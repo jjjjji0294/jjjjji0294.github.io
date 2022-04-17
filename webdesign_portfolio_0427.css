@@ -7,3 +7,10 @@ body,p {margin: 0%}
     width: 1200px;
     height: 800px;
     }
+
+#box2 {
+    position: relative;
+    width: 1920;
+    height: 1080;
+    background-color: blue;
+}
