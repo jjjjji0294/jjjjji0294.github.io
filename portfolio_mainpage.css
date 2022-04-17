@@ -31,14 +31,6 @@ body,p {margin: 5%}
         height: 30%;
         background-color:rgb(0, 92, 61);
         }
-    
-    #box1-4 {
-       display: inline-block;
-        position: relative;
-        width: 20%;
-        height: 30%;
-        background-color:rgb(0, 255, 179);
-        }
 
  #box2 {
     display: block;
