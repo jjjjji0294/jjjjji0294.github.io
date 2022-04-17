@@ -16,6 +16,10 @@ body,p {margin: 5%}
     background-color:rgb(255, 0, 234);
     }
 
+    #box1-1 img {
+        width: 100%;
+    }
+
     #box1-2 {
     display: block;
     position: relative;
