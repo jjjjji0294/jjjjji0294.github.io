@@ -23,8 +23,8 @@ body,p {margin: 5%}
     display: inline-block;
     position: absolute;
     left: 600px;
-    width: 20%;
-    height: 30%;
+    width: 100px;
+    height: 100px;
     background-color:rgb(0, 92, 61);
     overflow:visible;
     }
