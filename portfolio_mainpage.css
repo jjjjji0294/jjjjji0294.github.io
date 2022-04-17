@@ -8,7 +8,7 @@ body,p {margin: 5%}
     background-color:aqua;
     }
 
-    #box1-1 {
+    .box1-1 {
     display: inline-block;
     position: relative;
     width: 50%;
@@ -16,7 +16,7 @@ body,p {margin: 5%}
     background-color:rgb(255, 0, 234);
     }
 
-    #box1-1 img {
+    .box1-1 img {
         width: 100%;
     }
 
