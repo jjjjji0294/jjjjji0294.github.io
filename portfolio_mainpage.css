@@ -13,11 +13,18 @@ p {
     }
 
     #box1-1 {
-    position: relative;
+    position: inline-block;
     width: 50%;
     height: 50%;
     background-color:rgb(255, 0, 234);
-}
+    }
+
+    #box1-2 {
+    position: inline-block;
+    width: 50%;
+    height: 50%;
+    background-color:rgb(255, 0, 234);
+    }
 
  #box2 {
     display: inline-block;
