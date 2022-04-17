@@ -1,1 +1,7 @@
 body,p {margin: 0%}
+
+#box1 {
+    position: relative;
+    width: 1200px;
+    height: 800px;
+    }
