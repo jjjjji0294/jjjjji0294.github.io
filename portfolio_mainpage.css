@@ -24,6 +24,22 @@ body,p {margin: 5%}
     background-color:rgb(59, 30, 57);
     }
 
+    #box1-3 {
+        display: inline-block;
+        position: relative;
+        width: 50%;
+        height: 30%;
+        background-color:rgb(0, 92, 61);
+        }
+    
+    #box1-4 {
+       display: inline-block;
+        position: relative;
+        width: 50%;
+        height: 30%;
+        background-color:rgb(0, 255, 179);
+        }
+
  #box2 {
     display: block;
     position: absolute;
