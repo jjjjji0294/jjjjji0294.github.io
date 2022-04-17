@@ -1,4 +1,4 @@
-body,p {margin: 10%}
+body,p {margin: 5%}
 
 p {
     background-color: #ffff00;
@@ -11,6 +11,13 @@ p {
     height: 800px;
     background-color:aqua;
     }
+
+    #box1-1 {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    background-color:rgb(255, 0, 234);
+}
 
  #box2 {
     display: inline-block;
