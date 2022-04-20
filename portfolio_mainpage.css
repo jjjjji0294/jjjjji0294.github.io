@@ -27,7 +27,7 @@ p {
     display: block;
     position: relative;
     width: 538px;
-    height: fit-content;
+    height:500px;
     margin-right: 16px;
     background-color: blue;
 }
