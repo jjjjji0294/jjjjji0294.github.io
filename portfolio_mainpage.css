@@ -49,6 +49,7 @@ p {
     width: 260px;
     height: 260px;
     top: 516px;
+    margin-left: 16px;
     background-color: black;
     overflow: visible;
 }
