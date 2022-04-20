@@ -3,16 +3,17 @@ body,p {margin: 0%}
 header {
     position: fixed;
     width: 100;
+    z-index: 1000;
 }
 
 nav {
     position: relative;
-    top: 20px;
-    left: 70%;
-    transform: translate(-50%,0);
+    top: 50px;
+    right: 20%;
+    transform: translate(-20%,0);
 }
 
-.menuitem {
-    float: left;
+menuitem {
+    float: right;
     padding: 0 8px;
 }
