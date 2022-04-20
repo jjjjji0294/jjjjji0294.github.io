@@ -6,13 +6,13 @@ header {
     z-index: 1000;
 }
 
-#nav {
+nav {
     position: absolute;
     top: 24px;
     right: 20%;
 }
 
-#menu {
+.menu {
     float: left;
     padding: 0 8px;
 }
