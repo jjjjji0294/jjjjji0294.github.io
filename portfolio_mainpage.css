@@ -46,10 +46,11 @@ p {
 #box2 {
     display: inline-block;
     position: relative;
+    top: 516px;
+    left: 554px;
+    margin-left: 16px;
     width: 260px;
     height: 260px;
-    top: 516px;
-    margin-left: 16px;
     background-color: black;
     overflow: visible;
 }
