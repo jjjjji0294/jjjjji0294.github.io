@@ -1,0 +1,24 @@
+body,p {margin: 0;}
+
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav {
+    position: absolute;
+    top: 24px;
+    right: 10%;
+}
+
+.menu {
+    float: left;
+    padding: 0 8px;
+}
+
+p {
+    color: white;
+    font-style: normal;
+    font-size: medium;
+}
