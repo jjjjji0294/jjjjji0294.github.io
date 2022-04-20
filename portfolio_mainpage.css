@@ -27,6 +27,7 @@ p {
     display: block;
     position: relative;
     width: 538px;
+    height: fit-content;
     margin-right: 16px;
     background-color: blue;
 }
@@ -43,9 +44,11 @@ p {
 }
 
 #box2 {
-    display: block;
+    display: inline-block;
     position: absolute;
     width: 260px;
     height: 260px;
     top: 774px;
+    background-color: black;
+    overflow: visible;
 }
