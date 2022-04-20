@@ -24,6 +24,7 @@ p {
 }
 
 #tap {
+    display: block;
     position: relative;
     width: 538px;
     margin-right: 16px;
@@ -31,6 +32,7 @@ p {
 }
 
 #box1 {
+    display: block;
     position: absolute; 
     width: 536px;
     height: 340px;
@@ -41,6 +43,7 @@ p {
 }
 
 #box2 {
+    display: block;
     position: absolute;
     width: 260px;
     height: 260px;
