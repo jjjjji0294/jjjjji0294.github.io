@@ -6,8 +6,19 @@ body,p {margin: 0;}
     z-index: 1000;
 }
 
+#logo {
+    position: absolute;
+    top: 24px;
+    left: 24px;
+}
+#info {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+}
+
 #nav {
-    position: relative;
+    position: absolute;
     top: 24px;
     right: 60px;
 }
