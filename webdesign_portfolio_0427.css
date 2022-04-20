@@ -17,6 +17,12 @@ nav {
     padding: 0 8px;
 }
 
+p {
+    color: white;
+    font-style: normal;
+    font-size: medium;
+}
+
 #box1 {
     position: relative;
     width: 1920px;
