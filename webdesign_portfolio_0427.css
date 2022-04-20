@@ -9,8 +9,7 @@ header {
 nav {
     position: relative;
     top: 24px;
-    left: 50px;
-    transform: translate(-20%,0);
+    left: 500px;
 }
 
 menu {
