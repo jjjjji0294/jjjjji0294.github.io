@@ -9,7 +9,7 @@ header {
 nav {
     position: relative;
     top: 24px;
-    right: 50px;
+    left: 50px;
     transform: translate(-20%,0);
 }
 
