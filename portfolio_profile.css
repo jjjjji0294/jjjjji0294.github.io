@@ -23,6 +23,19 @@ a {
     font-size: 20px;
 }
 
+#ibox {
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 100px;
+    top: 200px;
+    background-color: #000000;
+    overflow: visible;
+    background-image: url('프로필시작.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 #tap {
     display: block;
     position: relative;
