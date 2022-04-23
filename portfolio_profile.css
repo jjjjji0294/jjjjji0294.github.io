@@ -34,7 +34,7 @@ p {
 
 #box1 {
     display: block;
-    position: absolute;
+    position: relative;
     float: left;
     top: 200px;
     left: 16px;
