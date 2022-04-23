@@ -17,7 +17,7 @@ nav {
     padding: 0 8px;
 }
 
-p {
+a {
     color: white;
     font-style: normal;
     font-size: 20px;
@@ -47,7 +47,6 @@ p {
 #box2 {
     display: block;
     position: absolute;
-    float: left;
     top: 200px;
     left: 392px;
     width: 360px;
@@ -59,7 +58,7 @@ p {
 #box2-1 {
     display: block;
     position: absolute;
-    width: 300px;
+    width: 360px;
     height: 100px;
     background-color: beige;
 }
@@ -68,7 +67,18 @@ p {
     display: block;
     position: absolute;
     top:100px;
-    width:300px;
+    width:360px;
     height: 400px;
     background-color: blueviolet;
+}
+
+#box3 {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 768px;
+    width: 360px;
+    height: 500px;
+    background-color: black;
+    overflow: visible;
 }
