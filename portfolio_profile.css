@@ -36,10 +36,10 @@ p {
     display: block;
     position: absolute;
     float: left;
-    top: 516px;
+    top: 200px;
     left: 16px;
-    width: 160px;
-    height: 300px;
+    width: 360px;
+    height: 600px;
     background-color: black;
     overflow: visible;
 }
