@@ -31,3 +31,15 @@ p {
     left: 538px;
     background-color: #0010ed;
 }
+
+#box1 {
+    display: block;
+    position: absolute;
+    float: left;
+    top: 516px;
+    left: 16px;
+    width: 160px;
+    height: 300px;
+    background-color: black;
+    overflow: visible;
+}
