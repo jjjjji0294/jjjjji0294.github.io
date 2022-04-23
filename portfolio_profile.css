@@ -32,6 +32,12 @@ a {
     background-color: #0010ed;
 }
 
+p {
+    color: white;
+    font-style: normal;
+    font-size: 14px;
+}
+
 #box1 {
     display: block;
     position: absolute;
@@ -39,7 +45,7 @@ a {
     top: 200px;
     left: 16px;
     width: 360px;
-    height: 500px;
+    height: 400px;
     background-color: black;
     overflow: visible;
 }
@@ -50,7 +56,7 @@ a {
     top: 200px;
     left: 392px;
     width: 360px;
-    height: 500px;
+    height: 400px;
     background-color: black;
     overflow: visible;
 }
@@ -66,9 +72,9 @@ a {
 #box2-2 {
     display: block;
     position: absolute;
-    top:100px;
+    top:116px;
     width:360px;
-    height: 400px;
+    height: 300px;
     background-color: blueviolet;
 }
 
@@ -78,7 +84,7 @@ a {
     top: 200px;
     left: 768px;
     width: 360px;
-    height: 900px;
+    height: 800px;
     background-color: black;
     overflow: visible;
 }
@@ -94,7 +100,7 @@ a {
 #box3-2 {
     display: block;
     position: absolute;
-    top: 300px;
+    top: 316px;
     width: 360px;
     height: 300px;
     background-color: aliceblue;
@@ -103,7 +109,7 @@ a {
 #box3-3 {
     display: block;
     position: absolute;
-    top: 600px;
+    top: 632px;
     width: 360px;
     height: 300px;
     background-color: aliceblue;
