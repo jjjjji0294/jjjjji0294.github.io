@@ -20,12 +20,21 @@ nav {
 p {
     color: white;
     font-style: normal;
-    font-size: medium;
+    font-size: large;
 }
 
 #box1 {
     position: relative;
     width: 1920px;
     height: 1080px;
-    background-color:blue;
+    background-color: #0010ed;
+}
+
+#box2 {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 60px;
+    top: 70%;
+    background-color: #000000;
 }
