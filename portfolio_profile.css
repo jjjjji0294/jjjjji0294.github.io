@@ -34,12 +34,12 @@ p {
 
 #box1 {
     display: block;
-    position: relative;
+    position: absolute;
     float: left;
     top: 200px;
     left: 16px;
-    width: 360px;
-    height: 600px;
+    width: 160px;
+    height: 300px;
     background-color: black;
     overflow: visible;
 }
