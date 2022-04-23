@@ -20,7 +20,7 @@ nav {
 p {
     color: white;
     font-style: normal;
-    font-size: large;
+    font-size: 20px;
 }
 
 #tap {
@@ -53,5 +53,22 @@ p {
     width: 360px;
     height: 500px;
     background-color: black;
-    overflow: visible;
+    overflow: hidden;
+}
+
+#box2-1 {
+    display: block;
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    background-color: beige;
+}
+
+#box2-2 {
+    display: block;
+    position: absolute;
+    top:100px;
+    width:300px;
+    height: 400px;
+    background-color: blueviolet;
 }
