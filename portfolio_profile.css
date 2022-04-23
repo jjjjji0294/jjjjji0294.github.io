@@ -24,16 +24,12 @@ a {
 }
 
 #ibox {
-    position: absolute;
-    width: 300px;
+    color: #0010ed;
+    position: relative;
+    width: 100px;
     height: 100px;
-    left: 100px;
     top: 200px;
-    background-color: #000000;
-    overflow: visible;
-    background-image: url('프로필시작.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    left: 100px;
 }
 
 #tap {
