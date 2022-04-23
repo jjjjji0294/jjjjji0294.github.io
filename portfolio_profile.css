@@ -53,7 +53,7 @@ p {
     width: 360px;
     height: 500px;
     background-color: black;
-    overflow: hidden;
+    overflow: visible;
 }
 
 #box2-1 {
