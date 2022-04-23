@@ -39,7 +39,7 @@ p {
     top: 200px;
     left: 16px;
     width: 360px;
-    height: 600px;
+    height: 500px;
     background-color: black;
     overflow: visible;
 }
@@ -49,9 +49,9 @@ p {
     position: absolute;
     float: left;
     top: 200px;
-    left: 16px;
-    width: 376px;
-    height: 300px;
+    left: 376px;
+    width: 360px;
+    height: 500px;
     background-color: black;
     overflow: visible;
 }
