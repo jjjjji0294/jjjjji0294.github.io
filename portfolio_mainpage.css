@@ -23,11 +23,18 @@ a {
     font-size: 20px;
 }
 
+p {
+    color: #0010ed;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 32px;
+}
+
 #tap {
     display: block;
     position: relative;
     width: 538px;
-    height: 3080px;
+    height: 9080px;
     margin-right: 16px;
     background-color: #0010ed;
 }
@@ -40,6 +47,10 @@ a {
     top: 400px;
     left: 1104px;
     background-color: black;
+    overflow: visible;
+    background-image: url('앨범디자인1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box2 {
@@ -48,7 +59,7 @@ a {
     width: 300px;
     height: 200px;
     right: 616px;
-    background-color: aquamarine;
+    text-align: right;
 }
 
 #box3 {
@@ -59,6 +70,10 @@ a {
     top: 1016px;
     left: 1104px;
     background-color: black;
+    overflow: visible;
+    background-image: url('앨범디자인2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box4 {
@@ -68,5 +83,113 @@ a {
     height: 600px;
     top: 1632px;
     left: 1104px;
+    background-color: black;
+    overflow: visible;
+    background-image: url('앨범디자인3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box5 {
+    display: block;
+    position: absolute; 
+    width: 900px;
+    height: 580px;
+    top: 2748px;
+    left: 554px;
+    background-color: black;
+}
+
+#box5-1 {
+    display: block;
+    position: absolute; 
+    width: 200px;
+    height: 600px;
+    left: 916px;
+}
+
+#box6 {
+    display: block;
+    position: absolute; 
+    width: 442px;
+    height: 300px;
+    top: 3544px;
+    left: 554px;
+    background-color: black;
+}
+
+#box7 {
+    display: block;
+    position: absolute; 
+    width: 442px;
+    height: 300px;
+    left: 466px;
+    background-color: black;
+}
+
+#box8 {
+    display: block;
+    position: absolute; 
+    width: 442px;
+    height: 300px;
+    top: 3860px;
+    left: 554px;
+    background-color: black;
+}
+
+#box9 {
+    display: block;
+    position: absolute; 
+    width: 442px;
+    height: 300px;
+    left: 466px;
+    background-color: black;
+}
+
+#box10 {
+    display: block;
+    position: absolute; 
+    width: 442px;
+    height: 300px;
+    top: 4176px;
+    left: 554px;
+    background-color: black;
+}
+
+#box11 {
+    display: block;
+    position: absolute; 
+    width: 442px;
+    height: 300px;
+    left: 466px;
+    background-color: black;
+}
+
+#box12 {
+    display: block;
+    position: absolute; 
+    width: 442px;
+    height: 300px;
+    top: 4492px;
+    left: 554px;
+    background-color: black;
+}
+
+#box13 {
+    display: block;
+    position: absolute; 
+    width: 442px;
+    height: 300px;
+    left: 466px;
+    background-color: black;
+}
+
+#box14 {
+    display: block;
+    position: absolute; 
+    width: 442px;
+    height: 300px;
+    top: 4808px;
+    left: 554px;
     background-color: black;
 }
