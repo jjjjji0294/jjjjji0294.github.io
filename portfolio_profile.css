@@ -23,15 +23,6 @@ a {
     font-size: 20px;
 }
 
-#ibox {
-    color: #0010ed;
-    position: relative;
-    width: 100px;
-    height: 100px;
-    top: 200px;
-    left: 100px;
-}
-
 #tap {
     display: block;
     position: relative;
