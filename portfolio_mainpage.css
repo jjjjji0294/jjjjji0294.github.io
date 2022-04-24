@@ -27,7 +27,7 @@ a {
     display: block;
     position: relative;
     width: 538px;
-    height: 1080px;
+    height: 3080px;
     margin-right: 16px;
     background-color: #0010ed;
 }
@@ -35,22 +35,38 @@ a {
 #box1 {
     display: block;
     position: absolute; 
-    width: 536px;
-    height: 340px;
-    top: 516px;
-    left: 554px;
-    margin-bottom: 16px;
+    width: 600px;
+    height: 600px;
+    top: 400px;
+    left: 1104px;
     background-color: black;
 }
 
 #box2 {
-    display: inline-block;
-    position: relative;
-    top: 516px;
-    left: 554px;
-    margin-left: 16px;
-    width: 260px;
-    height: 260px;
+    display: block;
+    position: absolute; 
+    width: 300px;
+    height: 200px;
+    right: 616px;
+    background-color: aquamarine;
+}
+
+#box3 {
+    display: block;
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    top: 1016px;
+    left: 1104px;
     background-color: black;
-    overflow: visible;
+}
+
+#box4 {
+    display: block;
+    position: absolute; 
+    width: 600px;
+    height: 600px;
+    top: 1632px;
+    left: 1104px;
+    background-color: black;
 }
