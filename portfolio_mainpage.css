@@ -48,7 +48,7 @@ p {
     left: 1104px;
     background-color: black;
     overflow: visible;
-    background-image: url('앨범디자인일.jpg');
+    background-image: url('앨범디자인일.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -71,7 +71,7 @@ p {
     left: 1104px;
     background-color: black;
     overflow: visible;
-    background-image: url('앨범디자인이.jpg');
+    background-image: url('앨범디자인이.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -85,7 +85,7 @@ p {
     left: 1104px;
     background-color: black;
     overflow: visible;
-    background-image: url('앨범디자인삼.jpg');
+    background-image: url('앨범디자인삼.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
