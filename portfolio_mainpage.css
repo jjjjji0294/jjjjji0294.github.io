@@ -275,11 +275,11 @@ p {
     position: absolute; 
     width: 394px;
     height: 260px;
-    top: 6400px;
-    left: 554px;
+    top: 6574px;
+    left: 1200px;
     background-color: black;
     overflow: visible;
-    background-image: url('목업1.png');
+    background-image: url('목업01.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -289,7 +289,8 @@ p {
     position: absolute; 
     width: 394px;
     height: 260px;
-    left: 500x;
+    top: 7368px;
+    left: 900x;
     background-color: black;
     overflow: visible;
     background-image: url('목업2.png');
@@ -302,7 +303,8 @@ p {
     position: absolute; 
     width: 394px;
     height: 260px;
-    left: 500px;
+    top: 6968px;
+    left: 900px;
     background-color: black;
     overflow: visible;
     background-image: url('목업3.png');
