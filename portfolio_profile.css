@@ -8,17 +8,16 @@ header {
 
 nav {
     position: absolute;
-    top: 50px;
-    right: 10%;
+    top: 300px;
+    left: 150px;
 }
 
 .menu {
-    float: left;
-    padding: 0 8px;
+    line-height: 72px;
 }
 
 a {
-    color: white;
+    color: #0010ed;
     font-weight: bold;
     font-size: 20px;
 }
@@ -26,7 +25,7 @@ a {
 #tap {
     display: block;
     position: relative;
-    width: 1382px;
+    width: 1365px;
     height: 1080px;
     left: 538px;
     background-color: #0010ed;
@@ -80,7 +79,7 @@ p {
     display: block;
     position: absolute;
     top: 200px;
-    left: 768px;
+    left: 668px;
     width: 360px;
     height: 800px;
     overflow: visible;
