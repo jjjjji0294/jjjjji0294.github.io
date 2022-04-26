@@ -8,17 +8,16 @@ header {
 
 nav {
     position: absolute;
-    top: 50px;
-    right: 10%;
+    top: 300px;
+    left: 150px;
 }
 
 .menu {
-    float: left;
-    padding: 0 8px;
+    line-height: 72px;
 }
 
 a {
-    color: #0010ed;
+    color: #ffffff;
     font-weight: bold;
     font-size: 20px;
 }
@@ -34,7 +33,7 @@ p {
     display: block;
     position: relative;
     width: 538px;
-    height: 9080px;
+    height: 12080px;
     margin-right: 16px;
     background-color: #0010ed;
 }
@@ -272,12 +271,12 @@ p {
 
 #box18 {
     display: block;
-    position: absolute; 
-    width: 394px;
-    height: 260px;
-    top: 6574px;
-    left: 1200px;
-    background-color: black;
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    top: 6374px;
+    left: 554px;
+    background-color: #000000;
     overflow: visible;
     background-image: url('목업01.png');
     background-size: cover;
@@ -286,12 +285,12 @@ p {
 
 #box19 {
     display: block;
-    position: absolute; 
-    width: 394px;
-    height: 260px;
-    top: 7368px;
-    left: 900x;
-    background-color: black;
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    top: 6690px;
+    left: 554px;
+    background-color: #000000;
     overflow: visible;
     background-image: url('목업2.png');
     background-size: cover;
@@ -300,14 +299,64 @@ p {
 
 #box20 {
     display: block;
-    position: absolute; 
-    width: 394px;
-    height: 260px;
-    top: 6968px;
-    left: 900px;
-    background-color: black;
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 416px;
+    background-color: #000000;
     overflow: visible;
     background-image: url('목업3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box21 {
+    display: block;
+    position: absolute;
+    width: 1100px;
+    height: 590px;
+    top: 7790px;
+    left: 554px;
+    background-color: #000000;
+    overflow: visible;
+    background-image: url('웹디자인일.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box22 {
+    display: block;
+    position: absolute;
+    width: 150px;
+    height: 300px;
+    top: 554px;
+    left: 1116px;
+}
+
+#box23 {
+    display: block;
+    position: absolute;
+    width: 1100px;
+    height: 590px;
+    top: 8396px;
+    left: 554px;
+    background-color: #000000;
+    overflow: visible;
+    background-image: url('웹디자인이.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box24 {
+    display: block;
+    position: absolute;
+    width: 1100px;
+    height: 590px;
+    top: 8996px;
+    left: 554px;
+    background-color: #000000;
+    overflow: visible;
+    background-image: url('웹디자인삼.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
