@@ -98,6 +98,10 @@ p {
     top: 2748px;
     left: 554px;
     background-color: black;
+    overflow: visible;
+    background-image: url('잡지전체보기.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box5-1 {
@@ -116,6 +120,10 @@ p {
     top: 3544px;
     left: 554px;
     background-color: black;
+    overflow: visible;
+    background-image: url('actors_page1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box7 {
@@ -125,6 +133,10 @@ p {
     height: 300px;
     left: 466px;
     background-color: black;
+    overflow: visible;
+    background-image: url('actors_page2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box8 {
@@ -135,6 +147,10 @@ p {
     top: 3860px;
     left: 554px;
     background-color: black;
+    overflow: visible;
+    background-image: url('actors_page3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box9 {
@@ -144,6 +160,10 @@ p {
     height: 300px;
     left: 466px;
     background-color: black;
+    overflow: visible;
+    background-image: url('actors_page4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box10 {
@@ -154,6 +174,10 @@ p {
     top: 4176px;
     left: 554px;
     background-color: black;
+    overflow: visible;
+    background-image: url('actors_page5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box11 {
@@ -163,6 +187,10 @@ p {
     height: 300px;
     left: 466px;
     background-color: black;
+    overflow: visible;
+    background-image: url('actors_page6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box12 {
@@ -173,6 +201,10 @@ p {
     top: 4492px;
     left: 554px;
     background-color: black;
+    overflow: visible;
+    background-image: url('actors_page7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box13 {
@@ -182,6 +214,10 @@ p {
     height: 300px;
     left: 466px;
     background-color: black;
+    overflow: visible;
+    background-image: url('actors_page8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #box14 {
@@ -192,4 +228,84 @@ p {
     top: 4808px;
     left: 554px;
     background-color: black;
+    overflow: visible;
+    background-image: url('actors_page9.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box15 {
+    display: block;
+    position: absolute; 
+    width: 600px;
+    height: 400px;
+    top: 5908px;
+    left: 554px;
+}
+
+#box16 {
+    display: block;
+    position: absolute; 
+    width: 600px;
+    height: 400px;
+    top: 5958px;
+    left: 554px;
+    background-color: black;
+    overflow: visible;
+    background-image: url('대지 1 (1,2,3p).jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box17 {
+    display: block;
+    position: absolute; 
+    width: 600px;
+    height: 400px;
+    left: 616px;
+    background-color: black;
+    overflow: visible;
+    background-image: url('대지2 (4,5,6p).png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box18 {
+    display: block;
+    position: absolute; 
+    width: 394px;
+    height: 260px;
+    top: 6400px;
+    left: 554px;
+    background-color: black;
+    overflow: visible;
+    background-image: url('목업1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box19 {
+    display: block;
+    position: absolute; 
+    width: 394px;
+    height: 260px;
+    left: 500x;
+    background-color: black;
+    overflow: visible;
+    background-image: url('목업2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#box20 {
+    display: block;
+    position: absolute; 
+    width: 394px;
+    height: 260px;
+    left: 500px;
+    background-color: black;
+    overflow: visible;
+    background-image: url('목업3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
